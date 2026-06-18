@@ -1,5 +1,13 @@
 # @emdash-cms/perf-demo-site
 
+## 0.0.21
+
+### Patch Changes
+
+- Updated dependencies [[`d46abfd`](https://github.com/emdash-cms/emdash/commit/d46abfdb739f8d242eddba5ebfda09a8648c8ecf), [`ed921d8`](https://github.com/emdash-cms/emdash/commit/ed921d80ec33fa114d9c8a7f9221f1fbeb24d658)]:
+  - emdash@0.22.0
+  - @emdash-cms/cloudflare@0.22.0
+
 ## 0.0.20
 
 ### Patch Changes
